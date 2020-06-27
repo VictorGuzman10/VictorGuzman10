@@ -54,10 +54,10 @@ text-decoration: none;
 nav a:hover {
 background-color: #7C1A00;   
 }
-article:{
+article {
 background-image:trans-bg.gif;
 borderL 1px solid #ccc;
-margin-left: 180px;
+margin-left:180px;
 padding: 10px; 
   
   
